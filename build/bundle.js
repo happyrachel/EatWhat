@@ -649,7 +649,7 @@ eval("// style-loader: Adds some css to the DOM by adding a <style> tag\n\n// lo
 /* 83 */
 /***/ (function(module, exports, __webpack_require__) {
 
-eval("exports = module.exports = __webpack_require__(84)();\n// imports\n\n\n// module\nexports.push([module.i, \"#box{\\n  width: 100%;\\n  height: 100vh;\\n  background-image: url(\" + __webpack_require__(99) + \");\\n  background-repeat: no-repeat;\\n  background-size: cover;\\n  background-position: 50% 50%\\n}\\n.eat{\\n  width: 500px;\\n  height: 500px;\\n  margin: 0 auto;\\n  text-align: center;\\n  padding-top: 250px;\\n}\\n.eat p{\\n  color: #6d1414;\\n  font-weight: bolder;\\n  font-size: 30px\\n}\\n.eat span{\\n  font-size: 50px;\\n  color:#ff3333;\\n}\\n\", \"\"]);\n\n// exports\n\n\n//////////////////\n// WEBPACK FOOTER\n// ./~/css-loader!./src/main.css\n// module id = 83\n// module chunks = 0\n\n//# sourceURL=webpack:///./src/main.css?./~/css-loader");
+eval("exports = module.exports = __webpack_require__(84)();\n// imports\n\n\n// module\nexports.push([module.i, \"#box{\\n  width: 100%;\\n  height: 100vh;\\n  background-image: url(\" + __webpack_require__(99) + \");\\n  background-repeat: no-repeat;\\n  background-position:80% 100%\\n}\\n.eat{\\n  width: 500px;\\n  height: 500px;\\n  margin: 0 auto;\\n  text-align: center;\\n  padding-top: 250px;\\n}\\n.eat p{\\n  color: #6d1414;\\n  font-weight: bolder;\\n  font-size: 30px\\n}\\n.eat span{\\n  font-size: 50px;\\n  color:#ff3333;\\n}\\n\", \"\"]);\n\n// exports\n\n\n//////////////////\n// WEBPACK FOOTER\n// ./~/css-loader!./src/main.css\n// module id = 83\n// module chunks = 0\n\n//# sourceURL=webpack:///./src/main.css?./~/css-loader");
 
 /***/ }),
 /* 84 */
